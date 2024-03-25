@@ -1,0 +1,9 @@
+.mute-button {
+    display: flex;
+    background-color: #464646;
+    color:#fff;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+  
